@@ -3,6 +3,8 @@ import grequests
 import requests, csv
 from selectolax.parser import HTMLParser
 
+# weird edit
+
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 brands = ['keen','merrell','adidas', 'prana','saucony','oneill', 'dakine','kuhl','salomon']
