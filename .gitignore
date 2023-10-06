@@ -1,2 +1,5 @@
 # ignore all .env
 *.env
+
+# file.py
+file.py
